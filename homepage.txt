@@ -1,5 +1,5 @@
 
 Hello G5!
 This is SCM class
-New data
+New data is here
 
