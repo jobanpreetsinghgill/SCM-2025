@@ -1,1 +1,2 @@
 this is my contact file
+this is in feature now too
